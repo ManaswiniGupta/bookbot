@@ -1,0 +1,6 @@
+constants.pymyenv/
+*.dll
+*.lib
+*.lib
+*.dll
+myenv/

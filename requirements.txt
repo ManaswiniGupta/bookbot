@@ -1,0 +1,10 @@
+streamlit
+rank-bm25
+transformers
+torch
+nltk
+PyPDF2
+groq
+faiss-cpu
+gensim
+numpy
